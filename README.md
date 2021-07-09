@@ -51,4 +51,6 @@ truncated
 ## Get what you want
 All the parameter to API are optional. If dont know file name default file used for output is file1.txt
 
+## Custom Error Handling
+![image](https://user-images.githubusercontent.com/37057102/125107167-185d1300-e0fe-11eb-8d34-3cbd9140e08e.png)
 
