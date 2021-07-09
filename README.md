@@ -1,4 +1,4 @@
-# VITTY Flask Test
+# VETTY Flask Test
 [![Linkedin Badge](https://img.shields.io/badge/-shubhamsangle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/shubham-sangle)](https://in.linkedin.com/in/shubham-sangle) [![Gmail Badge](https://img.shields.io/badge/-sangleshubham9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sangleshubham9@gmail.com)](mailto:sangleshubham9@gmail.com)
 
 ## Dependencies
