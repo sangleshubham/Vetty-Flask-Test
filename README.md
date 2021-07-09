@@ -14,6 +14,12 @@ pip3 install -r requirements.txt
 python3 app.py
 ```
 ## Requesting to API
+- Parameters
+```
+/file1  -- filename 
+start   -- Start Index
+end     -- End Index
+```
 - File name supported 
 ```
 file1
